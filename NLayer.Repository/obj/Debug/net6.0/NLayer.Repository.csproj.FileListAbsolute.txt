@@ -1,0 +1,17 @@
+E:\Dersler\MVC\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+E:\Dersler\MVC\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
+E:\Dersler\MVC\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
+E:\Dersler\MVC\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
+E:\Dersler\MVC\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.pdb
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.AssemblyReference.cache
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfoInputs.cache
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfo.cs
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CopyComplete
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
+E:\Dersler\MVC\NLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+E:\Dersler\MVC\NLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache

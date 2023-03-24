@@ -1,0 +1,12 @@
+E:\Dersler\MVC\NLayer\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+E:\Dersler\MVC\NLayer\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+E:\Dersler\MVC\NLayer\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+E:\Dersler\MVC\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+E:\Dersler\MVC\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+E:\Dersler\MVC\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+E:\Dersler\MVC\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+E:\Dersler\MVC\NLayer\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+E:\Dersler\MVC\NLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+E:\Dersler\MVC\NLayer\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
